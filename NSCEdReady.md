@@ -6,15 +6,16 @@ published: true
 
 
 # Get a head start on college math
+
 ## What is EdReady?
 
 EdReady is a free learning platform that motived students can use to fill in the gaps in their math knowledge. EdReady contains videos and learning materials to help you learn the content that you would normally by taking Math 95M at NSC. 
 
-![EdReady video by NSC](images/EdReadyVideo.PNG)
+[![EdReady video by NSC](images/EdReadyVideo.PNG)](https://youtu.be/G4vll_wvC88)
 
 The EdReady promotional video explains how it works.
 
-![EdReady Promo Video](images/EdReadyExplanationVideo.PNG)
+[![EdReady Promo Video](images/EdReadyExplanationVideo.PNG)](https://youtu.be/12Ef3IdghgA)
 
 Students who would like to improve their placement from the Acuplacer test can work through Edready to place into a higher class.
 
