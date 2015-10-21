@@ -3,13 +3,13 @@ layout: default
 title: NSC EdReady
 published: true
 ---
-<section>
+
         <div id="title">
           <h1>NSC-EdReady</h1>
           <p>a resource for students who want to get through colleg math quickly</p>
           <hr>
         </div>
-</section>
+
 
 ## What is EdReady?
 
