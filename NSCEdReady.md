@@ -3,7 +3,7 @@ layout: default
 title: NSC EdReady
 published: true
 ---
-
+<section>
         <div id="title">
           <h1>NSC-EdReady</h1>
           <p>a resource for students who want to get through colleg math quickly</p>
@@ -40,4 +40,5 @@ Each time you log in you will work on this goal. Now you are at a window that le
 
 Over time you can view your progress as your score rises.
 
+</section>
 
