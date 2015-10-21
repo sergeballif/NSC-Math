@@ -9,7 +9,6 @@ published: true
           <p>a resource for students who want to get through colleg math quickly</p>
           <hr>
         </div>
-        <p></p>
 </section>
 
 ## What is EdReady?
