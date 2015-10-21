@@ -3,6 +3,7 @@ layout: default
 title: NSC EdReady
 published: true
 ---
+
 <section>
         <div id="title">
           <h1>NSC-EdReady</h1>
@@ -10,6 +11,7 @@ published: true
           <hr>
         </div>
 </section>
+<p></p>
 
 ## What is EdReady?
 
