@@ -4,8 +4,11 @@ title: NSC EdReady
 published: true
 ---
 
-
-# Get a head start on college math
+        <div id="title">
+          <h1>NSC-EdReady</h1>
+          <p>a resource for students who want to get through colleg math quickly</p>
+          <hr>
+        </div>
 
 ## What is EdReady?
 
