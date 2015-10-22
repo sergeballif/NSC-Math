@@ -4,6 +4,7 @@ title: NSC EdReady
 published: true
 ---
 
+
 <section>
         <div id="title">
           <h1>NSC-EdReady</h1>
@@ -19,19 +20,17 @@ EdReady is a free learning platform that motivated students can use to fill in t
 
 [![EdReady video by NSC](images/EdReadyVideo.PNG)](https://youtu.be/G4vll_wvC88)
 
-The official EdReady promotional video explains how it works.
+The official EdReady promotional video gives an overview of how it works.
 
 [![EdReady Promo Video](images/EdReadyExplanationVideo.PNG)](https://youtu.be/12Ef3IdghgA)
 
-Students who would like to improve their placement from the Acuplacer test can work through Edready to place into a higher class.
+Students who would like to improve their placement from the Acuplacer test can work through EdReady to place into a higher class. (In the long run we would like to phase out the Acuplacer test altogether and replace it with EdReady.)
 
 ## How do I get started?
 
 Go to [NSC EdReady](https://nsc.edready.org/home) and click "Get Started". Sign up using your NSHE ID. (Be sure to use your real name and NSHE ID.)
 
-![Get Started](images/EdReadySignUp.PNG)
-
-Click on the link for __Accuplacer Prep-Elementary Algebra__.
+Once you are signed up and logged in click on the link for __Accuplacer Prep-Elementary Algebra__.
 
 Add __Accuplacer Prep-Elementary Algebra__ to your goals by clicking on the button. 
 
@@ -42,5 +41,16 @@ Each time you log in you will work on this goal. Now you are at a window that le
 ![Start Assessment](images/EdReadyStartAssessment.PNG)
 
 Over time you can view your progress as your score rises.
+
+## How will my EdReady score affect my placement?
+
+You must first take the Acuplacer test to get an initial placement. Then you can work through EdReady to improve your placement. Everything must be completed manually at this time, so you will need to contact __Insert Person Here__ to be placed in a class.
+
+| EdReady Score 	| Class Placement 	|
+|---------------	|-----------------	|
+| $<90$         	| Math 95M        	|
+| $90$--$99$    	| Math 120E       	|
+| $100$         	| Math 120        	|
+
 
 
