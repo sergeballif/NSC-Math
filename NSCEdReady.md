@@ -46,11 +46,28 @@ Over time you can view your progress as your score rises.
 
 You must first take the Acuplacer test to get an initial placement. Then you can work through EdReady to improve your placement. Everything must be completed manually at this time, so you will need to contact __Insert Person Here__ to be placed in a class.
 
-| EdReady Score 	| Class Placement 	|
-|---------------	|-----------------	|
-| $<90$         	| Math 95M        	|
-| $90$--$99$    	| Math 120E       	|
-| $100$         	| Math 120        	|
+<table>
+<thead>
+<tr>
+<th>EdReady Score</th>
+<th>Class Placement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$&lt;90$</td>
+<td>Math 95M</td>
+</tr>
+<tr>
+<td>$90$–$99$</td>
+<td>Math 120E</td>
+</tr>
+<tr>
+<td>$100$</td>
+<td>Math 120</td>
+</tr>
+</tbody>
+</table>
 
 
 
