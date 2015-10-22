@@ -14,7 +14,6 @@ published: true
 </section>
 <p></p>
 
-<section>
 ## What is EdReady?
 
 EdReady is a free learning platform that motivated students can use to fill in the gaps in their math knowledge. EdReady contains videos and learning materials to help you learn the content that you would normally by taking Math 95M at NSC. 
@@ -53,5 +52,5 @@ You must first take the Acuplacer test to get an initial placement. Then you can
 | $90$--$99$    	| Math 120E       	|
 | $100$         	| Math 120        	|
 
-</section>
+
 
