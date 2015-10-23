@@ -44,7 +44,7 @@ Over time you can view your progress as your score rises.
 
 ## How will my EdReady score affect my placement?
 
-You must first take the Acuplacer test to get an initial placement. Then you can work through EdReady to improve your placement. Everything must be completed manually at this time, so you will need to contact __Insert Person Here__ to be placed in a class.
+You must first take the Acuplacer test to get an initial placement. Then you can work through EdReady to improve your placement. Everything must be completed manually at this time, so you will need to contact LaKaisha Hollingsworth at LaKaisha.Hollingsworth@nsc.edu so that she can verify your progress and place you in a class. __Note that we will only place students in a course if they have completed the Acuplacer test.__ This policy may change in the future, but for now we need data.
 
 <table>
 <thead>
@@ -69,5 +69,9 @@ You must first take the Acuplacer test to get an initial placement. Then you can
 </tbody>
 </table>
 
+## What if I have questions?
 
+For questions about EdReady you can read the FAQ on EdReady.
+
+For questions about the mathematical content you can use the Piazza discussion board. To sign up for the discussion board, go to piazza.com/nsc.nevada/other/foundationalmath and sign up. You can access the discussion board at piazza.com/nsc.nevada/other/foundationalmath/home. Be sure to ask meaningful questions that spell out what is being asked and how you approached the solution. Don't just refer to a question type or number because the problems are generated algorithmically, so no two students get the same questions.
 
