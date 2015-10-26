@@ -59,7 +59,7 @@ You must first take the Acuplacer test to get an initial placement. Then you can
 </thead>
 <tbody>
 <tr>
-<td>$&lt;90$</td>
+<td>$0$–$89$</td>
 <td>Math 95M</td>
 </tr>
 <tr>
