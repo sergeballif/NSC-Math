@@ -22,11 +22,11 @@ EdReady is a free learning platform that motivated students can use to fill in t
 <img border="0" alt="EdReady video by NSC" src="images/EdReadyVideo.PNG">
 </a>
 
-[![EdReady video by NSC](images/EdReadyVideo.PNG)](https://youtu.be/G4vll_wvC88)
-
 The official EdReady promotional video gives an overview of how it works.
 
-[![EdReady Promo Video](images/EdReadyExplanationVideo.PNG)](https://youtu.be/12Ef3IdghgA)
+<a href="https://youtu.be/12Ef3IdghgA" target="_blank">
+<img border="0" alt="EdReady Promo Video" src="images/EdReadyExplanationVideo.PNG">
+</a>
 
 Students who would like to improve their placement from the Acuplacer test can work through EdReady to place into a higher class. (In the long run we would like to phase out the Acuplacer test altogether and replace it with EdReady.)
 
