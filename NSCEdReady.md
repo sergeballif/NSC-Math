@@ -32,7 +32,7 @@ Students who would like to improve their placement from the Acuplacer test can w
 
 ## How do I get started?
 
-Go to [NSC EdReady](https://nsc.edready.org/home) and click "Get Started". Sign up using your NSHE ID. (Be sure to use your real name and NSHE ID.)
+Go to [NSC EdReady](https://nsc.edready.org/home) and click __Get Started__. Sign up using your NSHE ID. (Be sure to use your real name and NSHE ID.)
 
 Once you are signed up and logged in click on the link for __Accuplacer Prep-Elementary Algebra__.
 
