@@ -28,7 +28,7 @@ The official EdReady promotional video gives an overview of how it works.
 <img border="0" alt="EdReady Promo Video" src="images/EdReadyExplanationVideo.PNG">
 </a>
 
-Students who would like to improve their placement from the Acuplacer test can work through EdReady to place into a higher class. (In the long run we would like to phase out the Acuplacer test altogether and replace it with EdReady.)
+Students who would like to improve their placement from the Accuplacer test can work through EdReady to place into a higher class. (In the long run we would like to phase out the Accuplacer test altogether and replace it with EdReady.)
 
 ## How do I get started?
 
@@ -48,7 +48,7 @@ Over time you can view your progress as your score rises.
 
 ## How will my EdReady score affect my placement?
 
-You must first take the Acuplacer test to get an initial placement. Then you can work through EdReady to improve your placement. Everything must be completed manually at this time, so you will need to contact LaKaisha Hollingsworth at LaKaisha.Hollingsworth@nsc.edu so that she can verify your progress and place you in a class. __Note that we will only place students in a course if they have completed the Acuplacer test.__ This policy may change in the future, but for now we need data.
+You must first take the Accuplacer test to get an initial placement. Then you can work through EdReady to improve your placement. Everything must be completed manually at this time, so you will need to contact LaKaisha Hollingsworth at LaKaisha.Hollingsworth@nsc.edu so that she can verify your progress and place you in a class. __Note that we will only place students in a course if they have completed the Accuplacer test.__ This policy may change in the future, but for now we need data.
 
 <table>
 <thead>
