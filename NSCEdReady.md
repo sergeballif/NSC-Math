@@ -16,7 +16,7 @@ published: true
 
 ## What is EdReady?
 
-EdReady is a free learning platform that motivated students can use to fill in the gaps in their math knowledge. EdReady contains videos and learning materials to help you learn the content that you would normally by taking Math 95M at NSC. 
+EdReady is a free learning platform that motivated students can use to fill in the gaps in their math knowledge. EdReady contains videos and learning materials to help you learn the content that you would normally learn by taking Math 95M at NSC. 
 
 <a href="https://youtu.be/G4vll_wvC88" target="_blank">
 <img border="0" alt="EdReady video by NSC" src="images/EdReadyVideo.PNG">
