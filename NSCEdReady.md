@@ -24,7 +24,7 @@ EdReady is a free learning platform that motivated students can use to fill in t
 
 The official EdReady promotional video gives an overview of how it works.
 
-<a href="https://youtu.be/12Ef3IdghgA" target="_blank">
+<a href="https://player.vimeo.com/video/127075396" target="_blank">
 <img border="0" alt="EdReady Promo Video" src="images/EdReadyExplanationVideo.PNG">
 </a>
 
